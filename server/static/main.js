@@ -34,7 +34,7 @@ form.addEventListener('change', function (ev) {
 })
 
 function DisplayResult(result) {
-  /*I have created some CSS classes to make this look half decent.*/
+  
   resultDiv = document.getElementById("results")
 
   divContainer = document.createElement("div")
